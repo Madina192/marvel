@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marvel/static/css/main.9de5a53b.css",
+    "main.js": "/marvel/static/js/main.51391ae0.js",
+    "index.html": "/marvel/index.html",
+    "main.9de5a53b.css.map": "/marvel/static/css/main.9de5a53b.css.map",
+    "main.51391ae0.js.map": "/marvel/static/js/main.51391ae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de5a53b.css",
+    "static/js/main.51391ae0.js"
+  ]
+}
